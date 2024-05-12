@@ -1,2 +1,2 @@
-# Geth
-Using go-eth client to interact with Ethereum blockchain but from server and perfom admin functions on the election contract.
+# Geth-App
+This app aims to interact with Ethereum blockchain and perform admin functions using the election contract.
